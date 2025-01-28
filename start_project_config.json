@@ -1,0 +1,9 @@
+{
+    "github": {
+        "token": "",
+        "username": "bouajajais",
+        "repo_name": "start_project",
+        "description": "Use this docker image to start a new project with a solid structure.",
+        "private": false
+    }
+}

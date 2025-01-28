@@ -1,0 +1,40 @@
+# Structure
+data/**
+!data/base
+!data/config
+!data/base/**
+!data/config/**
+secrets/**
+
+# Git
+!.gitignore
+
+# Docker
+!.dockerignore
+!.docker.env
+!.devcontainer/**
+
+# Environment
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pot
+
+# Django
+*.log
+db.sqlite3
+
+# Node.js
+node_modules/
